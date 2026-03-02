@@ -1,0 +1,4 @@
+# git ignore file
+# ここで指定したファイルおよびフォルダは統合されない
+**sample_folder** # フォルダを除外
+sample_file.txt # ファイルを除外
