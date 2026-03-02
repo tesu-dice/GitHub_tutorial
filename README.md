@@ -17,7 +17,7 @@ GitIgnoreの使い方（？）
 7. merge後に必要なくなった２つのブランチを削除する。
 8. mainをpullして統合環境とローカルを同期させる。
 9. 「gitignore」というIssueを立てる。
-10. 立てたIssueでaddignoreのブランチを作ってignoreファイルを追加する。ignoreファイルにはworklogフォルダを指定。  
+10. 立てたIssueでaddignoreのブランチを作ってignoreファイルを編集する。ignoreファイルにはworklogフォルダを指定。  
    ※ignoreは全体共有なのでできればworklog事態も書かないほうがいいかも。人それぞれでこんなの作るって決めてるならいいけど
 11. worklogフォルダ内に日報とか作業内容など個人的なメモをする。
 12. ignoreファイルのおかげでworklogフォルダはPushなどで除外されることを確認する。
